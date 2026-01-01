@@ -55,5 +55,8 @@
 	},
 	"keywords": [
 		"svelte"
-	]
+	],
+	"dependencies": {
+		"@google/genai": "^1.34.0"
+	}
 }
